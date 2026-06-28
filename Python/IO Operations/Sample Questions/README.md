@@ -1,29 +1,23 @@
-# IO Operations - Sample Questions Answers
+# 📁 Sample Questions
 
-### 1. How to open a file in create mode?
-To open a file specifically in create mode, you use the `open()` function with the mode `"x"`. This creates a brand new file and will raise an error if a file with that name already exists. You can also use `"w"` which creates the file if it does not exist.
+Welcome to the **Sample Questions** directory, a critical section of my **Wipro Project-Based Learning (PBL)** repository for the Data Science with Python Batch 2027 (DS_261360047).
 
-```python
-my_file = open("new_document.txt", "x")
-my_file.write("Hello World")
-my_file.close()
-```
+## 🧭 Directory Context
+**Path Hierarchy:** `Python > IO Operations > Sample Questions`
 
-### 2. Which function reads one line at a time?
-The `readline()` function is used to read exactly one line at a time from an opened file. Each time you call it, it moves to the next line.
+This directory is exclusively owned and maintained as part of my continuous learning journey. It houses specialized assignments, theoretical implementations, and niche project code directly related to **Sample Questions**.
 
-```python
-my_file = open("existing_document.txt", "r")
-first_line = my_file.readline()
-print(first_line)
-my_file.close()
-```
+## 🎯 Ownership & Purpose
+Every single file within this subdirectory represents my hands-on practice and mastery over the respective technical concepts. The primary objectives of this specific module include:
+- **Deep-Dive Implementation:** Applying theoretical knowledge into raw, functional Python code.
+- **Problem Solving:** Tackling Wipro PBL assignments specifically focused on `Sample Questions`.
+- **Code Humanization:** Writing clean, unstructured, yet highly readable code logic that operates flawlessly without relying on excessive commenting.
 
-### 3. Which module is required to delete files or folders?
-You must import the `os` module to delete files or folders. You use `os.remove()` to delete a file, and `os.rmdir()` to delete a folder.
+## 🛠️ Technical Scope
+As part of the broader **Data Science with Python** curriculum, the contents here utilize:
+- Python 3
+- Advanced logical structuring
+- Topic-specific built-in functions and modules
 
-```python
-import os
-
-os.remove("unwanted_file.txt")
-```
+---
+⭐ *This sub-directory is a living documentation of my technical progression. All code here is authored to meet the strict PBL requirements while maintaining a unique, humanized coding style.*

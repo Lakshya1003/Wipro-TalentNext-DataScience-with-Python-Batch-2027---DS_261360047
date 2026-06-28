@@ -1,16 +1,16 @@
-# 📁 Sample Questions
+# 📁 Learning Outcomes
 
-Welcome to the **Sample Questions** directory, a critical section of my **Wipro Project-Based Learning (PBL)** repository for the Data Science with Python Batch 2027 (DS_261360047).
+Welcome to the **Learning Outcomes** directory, a critical section of my **Wipro Project-Based Learning (PBL)** repository for the Data Science with Python Batch 2027 (DS_261360047).
 
 ## 🧭 Directory Context
-**Path Hierarchy:** `Python > Exception Handling > Sample Questions`
+**Path Hierarchy:** `Python > Command Line Arguments > Learning Outcomes`
 
-This directory is exclusively owned and maintained as part of my continuous learning journey. It houses specialized assignments, theoretical implementations, and niche project code directly related to **Sample Questions**.
+This directory is exclusively owned and maintained as part of my continuous learning journey. It houses specialized assignments, theoretical implementations, and niche project code directly related to **Learning Outcomes**.
 
 ## 🎯 Ownership & Purpose
 Every single file within this subdirectory represents my hands-on practice and mastery over the respective technical concepts. The primary objectives of this specific module include:
 - **Deep-Dive Implementation:** Applying theoretical knowledge into raw, functional Python code.
-- **Problem Solving:** Tackling Wipro PBL assignments specifically focused on `Sample Questions`.
+- **Problem Solving:** Tackling Wipro PBL assignments specifically focused on `Learning Outcomes`.
 - **Code Humanization:** Writing clean, unstructured, yet highly readable code logic that operates flawlessly without relying on excessive commenting.
 
 ## 🛠️ Technical Scope

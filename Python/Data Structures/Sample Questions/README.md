@@ -3,7 +3,7 @@
 Welcome to the **Sample Questions** directory, a critical section of my **Wipro Project-Based Learning (PBL)** repository for the Data Science with Python Batch 2027 (DS_261360047).
 
 ## 🧭 Directory Context
-**Path Hierarchy:** `Python > Exception Handling > Sample Questions`
+**Path Hierarchy:** `Python > Data Structures > Sample Questions`
 
 This directory is exclusively owned and maintained as part of my continuous learning journey. It houses specialized assignments, theoretical implementations, and niche project code directly related to **Sample Questions**.
 
