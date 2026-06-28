@@ -1,23 +1,24 @@
 # 📁 Project 4
 
-Welcome to the **Project 4** directory, a critical section of my **Wipro Project-Based Learning (PBL)** repository for the Data Science with Python Batch 2027 (DS_261360047).
+Welcome to the **Project 4** directory. This section is an integral part of my **Wipro Project-Based Learning (PBL)** repository for the Data Science with Python Batch 2027 (DS_261360047).
 
-## 🧭 Directory Context
+## 👑 Ownership & Authorship
+**Author:** Lakshya Raj Malviya
 **Path Hierarchy:** `Python > Data Structures > Mini Projects > Project 4`
 
-This directory is exclusively owned and maintained as part of my continuous learning journey. It houses specialized assignments, theoretical implementations, and niche project code directly related to **Project 4**.
+This directory and all of its contents are exclusively authored, owned, and maintained by me, **Lakshya Raj Malviya**. It serves as a direct reflection of my personal continuous learning journey, housing specialized assignments, theoretical implementations, and niche project code strictly developed by me.
 
-## 🎯 Ownership & Purpose
-Every single file within this subdirectory represents my hands-on practice and mastery over the respective technical concepts. The primary objectives of this specific module include:
-- **Deep-Dive Implementation:** Applying theoretical knowledge into raw, functional Python code.
-- **Problem Solving:** Tackling Wipro PBL assignments specifically focused on `Project 4`.
-- **Code Humanization:** Writing clean, unstructured, yet highly readable code logic that operates flawlessly without relying on excessive commenting.
+## 🎯 The Essence of My Work
+Every single file within this subdirectory represents my hands-on practice and personal mastery over these technical concepts. When you look at the code here, you are seeing my dedicated approach to problem-solving. The core essence of my work in this module includes:
+- **Deep-Dive Implementation:** Applying theoretical knowledge into raw, functional Python code from scratch.
+- **Problem Solving:** Autonomously tackling complex Wipro PBL assignments specifically focused on `Project 4`.
+- **Code Humanization:** I pride myself on writing clean, unstructured, yet highly conversational and readable code logic. My code is designed to operate flawlessly and explain itself without relying on excessive, cluttered commenting.
 
 ## 🛠️ Technical Scope
-As part of the broader **Data Science with Python** curriculum, the contents here utilize:
+As part of the broader **Data Science with Python** curriculum, my implementations here utilize:
 - Python 3
-- Advanced logical structuring
+- Advanced logical structuring and niche problem-solving techniques
 - Topic-specific built-in functions and modules
 
 ---
-⭐ *This sub-directory is a living documentation of my technical progression. All code here is authored to meet the strict PBL requirements while maintaining a unique, humanized coding style.*
+⭐ *This sub-directory is a living documentation of my technical progression. All code here is proudly authored by Lakshya Raj Malviya to meet the strict PBL requirements while maintaining my unique, humanized coding style.*
